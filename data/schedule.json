@@ -1,0 +1,259 @@
+[
+ {
+  "year": 2026,
+  "updated": "2026-10-14",
+  "source": "Central Directorate of National Savings, Islamabad",
+  "reference": "No.F.3(12) Sch-2/PB-15/Draw Schedule",
+  "issued": "2025-10-21",
+  "note": "If a draw falls on a public holiday, it is held on the following working day.",
+  "draws": [
+   {
+    "date": "2026-01-15",
+    "value": 750,
+    "city": "Peshawar",
+    "type": "national"
+   },
+   {
+    "date": "2026-02-16",
+    "value": 1500,
+    "city": "Lahore",
+    "type": "national"
+   },
+   {
+    "date": "2026-02-16",
+    "value": 100,
+    "city": "Karachi",
+    "type": "national"
+   },
+   {
+    "date": "2026-03-10",
+    "value": 40000,
+    "city": "Rawalpindi",
+    "type": "premium"
+   },
+   {
+    "date": "2026-03-10",
+    "value": 25000,
+    "city": "Multan",
+    "type": "premium"
+   },
+   {
+    "date": "2026-03-16",
+    "value": 200,
+    "city": "Faisalabad",
+    "type": "national"
+   },
+   {
+    "date": "2026-04-15",
+    "value": 750,
+    "city": "Quetta",
+    "type": "national"
+   },
+   {
+    "date": "2026-05-15",
+    "value": 1500,
+    "city": "Sialkot",
+    "type": "national"
+   },
+   {
+    "date": "2026-05-15",
+    "value": 100,
+    "city": "Hyderabad",
+    "type": "national"
+   },
+   {
+    "date": "2026-06-10",
+    "value": 40000,
+    "city": "Muzaffarabad",
+    "type": "premium"
+   },
+   {
+    "date": "2026-06-10",
+    "value": 25000,
+    "city": "Peshawar",
+    "type": "premium"
+   },
+   {
+    "date": "2026-06-15",
+    "value": 200,
+    "city": "Karachi",
+    "type": "national"
+   },
+   {
+    "date": "2026-07-15",
+    "value": 750,
+    "city": "Lahore",
+    "type": "national"
+   },
+   {
+    "date": "2026-08-17",
+    "value": 1500,
+    "city": "Faisalabad",
+    "type": "national"
+   },
+   {
+    "date": "2026-08-17",
+    "value": 100,
+    "city": "Multan",
+    "type": "national"
+   },
+   {
+    "date": "2026-09-10",
+    "value": 40000,
+    "city": "Sialkot",
+    "type": "premium"
+   },
+   {
+    "date": "2026-09-10",
+    "value": 25000,
+    "city": "Quetta",
+    "type": "premium"
+   },
+   {
+    "date": "2026-09-15",
+    "value": 200,
+    "city": "Muzaffarabad",
+    "type": "national"
+   },
+   {
+    "date": "2026-10-15",
+    "value": 750,
+    "city": "Rawalpindi",
+    "type": "national"
+   },
+   {
+    "date": "2026-11-16",
+    "value": 1500,
+    "city": "Hyderabad",
+    "type": "national"
+   },
+   {
+    "date": "2026-11-16",
+    "value": 100,
+    "city": "Faisalabad",
+    "type": "national"
+   },
+   {
+    "date": "2026-12-10",
+    "value": 40000,
+    "city": "Lahore",
+    "type": "premium"
+   },
+   {
+    "date": "2026-12-10",
+    "value": 25000,
+    "city": "Karachi",
+    "type": "premium"
+   },
+   {
+    "date": "2026-12-15",
+    "value": 200,
+    "city": "Peshawar",
+    "type": "national"
+   }
+  ]
+ },
+ {
+  "year": 2027,
+  "updated": "2026-11-03",
+  "note": "If a draw falls on a public holiday, it is held on the following working day.",
+  "draws": [
+   {
+    "date": "2027-01-15",
+    "value": 750,
+    "number": 109,
+    "type": "national"
+   },
+   {
+    "date": "2027-02-15",
+    "value": 1500,
+    "number": 109,
+    "type": "national"
+   },
+   {
+    "date": "2027-02-15",
+    "value": 100,
+    "number": 57,
+    "type": "national"
+   },
+   {
+    "date": "2027-03-15",
+    "value": 200,
+    "number": 109,
+    "type": "national"
+   },
+   {
+    "date": "2027-04-15",
+    "value": 750,
+    "number": 110,
+    "type": "national"
+   },
+   {
+    "date": "2027-05-17",
+    "value": 1500,
+    "number": 110,
+    "type": "national"
+   },
+   {
+    "date": "2027-05-17",
+    "value": 100,
+    "number": 58,
+    "type": "national"
+   },
+   {
+    "date": "2027-06-15",
+    "value": 200,
+    "number": 110,
+    "type": "national"
+   },
+   {
+    "date": "2027-07-15",
+    "value": 750,
+    "number": 111,
+    "type": "national"
+   },
+   {
+    "date": "2027-08-16",
+    "value": 1500,
+    "number": 111,
+    "type": "national"
+   },
+   {
+    "date": "2027-08-16",
+    "value": 100,
+    "number": 59,
+    "type": "national"
+   },
+   {
+    "date": "2027-09-15",
+    "value": 200,
+    "number": 111,
+    "type": "national"
+   },
+   {
+    "date": "2027-10-15",
+    "value": 750,
+    "number": 112,
+    "type": "national"
+   },
+   {
+    "date": "2027-11-15",
+    "value": 1500,
+    "number": 112,
+    "type": "national"
+   },
+   {
+    "date": "2027-11-15",
+    "value": 100,
+    "number": 60,
+    "type": "national"
+   },
+   {
+    "date": "2027-12-15",
+    "value": 200,
+    "number": 112,
+    "type": "national"
+   }
+  ]
+ }
+]
